@@ -19,3 +19,4 @@ A collection of EDA projects analyzing real-world datasets using Python.
 ## About
 I'm learning data analysis and building these projects to practice
 cleaning, analyzing, and visualizing real-world data.
+
